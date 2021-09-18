@@ -4,5 +4,5 @@ ketchup
 mostaza
 lechuga
 tomate
-mortadela
+huevo
 pan
